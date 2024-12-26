@@ -1,0 +1,33 @@
+{
+  "name": "fresh-bite",
+  "version": "1.0.0",
+  "description": "a food delivery app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunnammahesh/Fresh-Bite.git"
+  },
+  "keywords": [
+    "Fresh-Bite",
+    "Food",
+    "Delivery"
+  ],
+  "author": "Mahesh Vunnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vunnammahesh/Fresh-Bite/issues"
+  },
+  "homepage": "https://github.com/vunnammahesh/Fresh-Bite#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
